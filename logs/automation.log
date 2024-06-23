@@ -1,0 +1,45 @@
+14:32:15.737 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_003_verifyHoverAuthorDetails *********
+14:32:21.085 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_004_shareOptions *********
+14:32:36.725 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_005_verifyNewsLetterLink Display*********
+14:32:42.001 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_006_verifyLikes Display *********
+14:32:42.388 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_007_verifyViews Display *********
+14:32:49.416 [main] INFO  testCases.TC_002_NewsPageTest - ******** News details are displayed successfully ******
+14:32:49.836 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_002_verifyToolTip ***********
+14:32:55.092 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_003_verifyHoverAuthorDetails *********
+14:33:00.407 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_004_shareOptions *********
+14:33:15.928 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_005_verifyNewsLetterLink Display*********
+14:33:21.105 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_006_verifyLikes Display *********
+14:33:21.468 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_007_verifyViews Display *********
+14:33:28.725 [main] INFO  testCases.TC_002_NewsPageTest - ******** News details are displayed successfully ******
+14:33:29.105 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_002_verifyToolTip ***********
+14:33:34.344 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_003_verifyHoverAuthorDetails *********
+14:33:39.673 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_004_shareOptions *********
+14:33:55.212 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_005_verifyNewsLetterLink Display*********
+14:34:00.422 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_006_verifyLikes Display *********
+14:34:00.924 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_007_verifyViews Display *********
+14:34:07.752 [main] INFO  testCases.TC_002_NewsPageTest - ******** News details are displayed successfully ******
+15:24:29.776 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2318570\eclipse-workspace\CasPro\testng.xml
+
+15:24:43.257 [main] INFO  testCases.TC_002_NewsPageTest - **** Starting TC_001_UserInfoTest  ****
+15:25:02.841 [main] INFO  testCases.TC_002_NewsPageTest - **** Finish TC_001_UserInfoTest  ****
+15:25:03.324 [main] INFO  testCases.TC_002_NewsPageTest - *********   TC_001_Feature news page is display     ************* 
+15:25:03.982 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_001_Feature news displyed successfully   ********
+15:25:05.662 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_002_verifyToolTip ***********
+15:25:11.046 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_003_verifyHoverAuthorDetails *********
+15:25:16.383 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_004_shareOptions *********
+15:25:32.424 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_005_verifyNewsLetterLink Display*********
+15:25:37.689 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_006_verifyLikes Display *********
+15:25:38.210 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_007_verifyViews Display *********
+15:25:45.755 [main] INFO  testCases.TC_002_NewsPageTest - ******** News details are displayed successfully ******
+15:25:46.510 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_002_verifyToolTip ***********
+15:25:51.916 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_003_verifyHoverAuthorDetails *********
+15:25:57.278 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_004_shareOptions *********
+15:26:13.109 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_005_verifyNewsLetterLink Display*********
+15:26:18.416 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_006_verifyLikes Display *********
+15:26:19.091 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_007_verifyViews Display *********
+15:26:25.659 [main] INFO  testCases.TC_002_NewsPageTest - ******** News details are displayed successfully ******
+15:26:26.724 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_002_verifyToolTip ***********
+15:26:32.147 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_003_verifyHoverAuthorDetails *********
+15:26:37.580 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_004_shareOptions *********
+15:27:35.364 [main] INFO  testCases.TC_002_NewsPageTest - **** Starting TC_001_UserInfoTest  ****

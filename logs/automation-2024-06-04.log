@@ -1,0 +1,53 @@
+23:51:23.829 [main] INFO  testCases.TC_002_NewsPageTest - ********TC_002_NewsPageTest finished**********
+23:51:29.363 [main] INFO  testCases.TC_002_NewsPageTest - ******First News is displayed***********
+23:52:38.884 [main] INFO  testCases.TC_002_NewsPageTest - ********verify tooltip is displayed*********
+23:53:47.452 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2318570\eclipse-workspace\CasPro\testng.xml"
+23:53:48.037 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2318570\eclipse-workspace\CasPro\testng.xml
+
+23:53:59.452 [main] INFO  testCases.TC_002_NewsPageTest - **** Starting TC_001_UserInfoTest  ****
+23:54:24.993 [main] INFO  testCases.TC_002_NewsPageTest - **** Finish TC_001_UserInfoTest  ****
+23:54:25.426 [main] INFO  testCases.TC_002_NewsPageTest - ******TC_002_NewsPageTest-started*******
+23:54:25.426 [main] INFO  testCases.TC_002_NewsPageTest - *****FeaturedNews are displayed*******
+23:54:27.035 [main] INFO  testCases.TC_002_NewsPageTest - ******First News is displayed***********
+23:54:32.210 [main] INFO  testCases.TC_002_NewsPageTest - ********verify tooltip is displayed*********
+23:54:37.442 [main] INFO  testCases.TC_002_NewsPageTest - ********verify author is hover***************
+23:54:42.781 [main] INFO  testCases.TC_002_NewsPageTest - ********share Button is clicked**************
+23:54:48.620 [main] INFO  testCases.TC_002_NewsPageTest - ********share options is displayed.**********
+23:55:49.176 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2318570\eclipse-workspace\CasPro\testng.xml"
+23:55:49.622 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2318570\eclipse-workspace\CasPro\testng.xml
+
+23:56:01.956 [main] INFO  testCases.TC_002_NewsPageTest - **** Starting TC_001_UserInfoTest  ****
+23:56:27.460 [main] INFO  testCases.TC_002_NewsPageTest - **** Finish TC_001_UserInfoTest  ****
+23:56:27.845 [main] INFO  testCases.TC_002_NewsPageTest - ******TC_002_NewsPageTest-started*******
+23:56:27.845 [main] INFO  testCases.TC_002_NewsPageTest - *****FeaturedNews are displayed*******
+23:56:29.185 [main] INFO  testCases.TC_002_NewsPageTest - ******First News is displayed***********
+23:56:34.285 [main] INFO  testCases.TC_002_NewsPageTest - ********verify tooltip is displayed*********
+23:56:39.532 [main] INFO  testCases.TC_002_NewsPageTest - ********verify author is hover***************
+23:56:44.907 [main] INFO  testCases.TC_002_NewsPageTest - ********share Button is clicked**************
+23:56:50.565 [main] INFO  testCases.TC_002_NewsPageTest - ********share options is displayed.**********
+23:57:01.158 [main] INFO  testCases.TC_002_NewsPageTest - *****Get Button is clicked *******************
+23:57:06.543 [main] INFO  testCases.TC_002_NewsPageTest - ******Get total link is clicked
+23:57:07.224 [main] INFO  testCases.TC_002_NewsPageTest - ********Get the total likes*************** 
+23:57:07.639 [main] INFO  testCases.TC_002_NewsPageTest - ********Get the total likes******************
+23:57:07.696 [main] INFO  testCases.TC_002_NewsPageTest - ********TC_002_NewsPageTest finished**********
+23:57:13.227 [main] INFO  testCases.TC_002_NewsPageTest - ******First News is displayed***********
+23:57:18.352 [main] INFO  testCases.TC_002_NewsPageTest - ********verify tooltip is displayed*********
+23:57:23.721 [main] INFO  testCases.TC_002_NewsPageTest - ********verify author is hover***************
+23:57:29.133 [main] INFO  testCases.TC_002_NewsPageTest - ********share Button is clicked**************
+23:57:34.612 [main] INFO  testCases.TC_002_NewsPageTest - ********share options is displayed.**********
+23:57:45.061 [main] INFO  testCases.TC_002_NewsPageTest - *****Get Button is clicked *******************
+23:57:50.479 [main] INFO  testCases.TC_002_NewsPageTest - ******Get total link is clicked
+23:57:51.342 [main] INFO  testCases.TC_002_NewsPageTest - ********Get the total likes*************** 
+23:57:51.735 [main] INFO  testCases.TC_002_NewsPageTest - ********Get the total likes******************
+23:57:51.813 [main] INFO  testCases.TC_002_NewsPageTest - ********TC_002_NewsPageTest finished**********
+23:57:57.423 [main] INFO  testCases.TC_002_NewsPageTest - ******First News is displayed***********
+23:58:02.541 [main] INFO  testCases.TC_002_NewsPageTest - ********verify tooltip is displayed*********
+23:58:07.784 [main] INFO  testCases.TC_002_NewsPageTest - ********verify author is hover***************
+23:58:13.160 [main] INFO  testCases.TC_002_NewsPageTest - ********share Button is clicked**************
+23:58:18.637 [main] INFO  testCases.TC_002_NewsPageTest - ********share options is displayed.**********
+23:58:28.963 [main] INFO  testCases.TC_002_NewsPageTest - *****Get Button is clicked *******************
+23:58:34.219 [main] INFO  testCases.TC_002_NewsPageTest - ******Get total link is clicked
+23:58:34.885 [main] INFO  testCases.TC_002_NewsPageTest - ********Get the total likes*************** 
+23:58:35.170 [main] INFO  testCases.TC_002_NewsPageTest - ********Get the total likes******************
